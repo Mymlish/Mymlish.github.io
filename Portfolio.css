@@ -4,7 +4,11 @@
     border-bottom: 5px solid black;
 }
 
-.main_paragraphs {
+.main_paragraph {
+   text-align: center; 
+}
+
+.project_paragraphs {
     border: 2px dotted black;
     border-radius: 3px;
 }
