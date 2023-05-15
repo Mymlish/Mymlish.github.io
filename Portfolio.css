@@ -2,15 +2,15 @@
 
 .main_header {
     border-bottom: 5px solid black;
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
 
 .main_div {
-    padding: 25px;
     text-align: center; 
 }
 
 .project_div {
+    padding: 15px;
     border: 2px dotted black;
     border-radius: 3px;
 }
