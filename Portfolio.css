@@ -22,6 +22,6 @@
 }
 
 .fit_image {
-    width: XYpx;
-    height: XYpx;
+    width: 1000px;
+    height: auto;
 }
