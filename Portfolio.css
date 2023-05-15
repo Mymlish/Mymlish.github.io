@@ -4,8 +4,9 @@
     border-bottom: 5px solid black;
 }
 
-.main_paragraph {
-   text-align: center; 
+.main_div {
+    padding: 25px;
+    text-align: center; 
 }
 
 .project_paragraphs {
