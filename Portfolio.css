@@ -1,10 +1,10 @@
-body {background-color: rgb(143, 188, 143);}
+.background {background-color: rgb(143, 188, 143);}
 
-h1 {
+.main_header {
     border-bottom: 5px solid black;
 }
 
-p {
+.main_paragraphs {
     border: 2px dotted black;
     border-radius: 3px;
 }
