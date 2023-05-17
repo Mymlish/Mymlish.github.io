@@ -5,7 +5,8 @@
 }
 
 .main_div {
-    text-align: center; 
+    text-align: center;
+    margin: 100px;
 }
 
 .project_header {
@@ -13,11 +14,12 @@
 }
 
 .project_div {
-    padding: 15px;
+    padding: 30px;
     text-align: center;
     border: 2px dotted black;
     border-radius: 3px;
-    margin: 100px;
+    margin-left: 75px;
+    margin-right: 75px;
 }
 
 /* BELOW IS FROM https://www.w3schools.com/css/css_dropdowns.asp WITH MINOR CHANGES*/
