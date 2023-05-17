@@ -6,8 +6,8 @@
 
 .main_div {
     text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .project_header {
@@ -19,8 +19,8 @@
     text-align: center;
     border: 2px dotted black;
     border-radius: 3px;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
 }
 
 
