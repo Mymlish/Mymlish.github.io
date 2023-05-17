@@ -74,7 +74,7 @@
 
 /* BELOW THIS IS FROM https://www.w3schools.com/howto/howto_css_image_gallery_scroll.asp WITH MINOR*/
 div.scroll-container {
-    background-color: #333;
+    background-color: rgb(175, 240, 224);
     overflow: auto;
     white-space: nowrap;
     padding: 10px;
